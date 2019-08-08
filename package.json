@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rou97/realTImeChat.git"
+    "url": "git+https://github.com/Rou97/realTimeChat.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Rou97/realTImeChat/issues"
+    "url": "https://github.com/Rou97/realTimeChat/issues"
   },
-  "homepage": "https://github.com/Rou97/realTImeChat#readme",
+  "homepage": "https://github.com/Rou97/realTimeChat#readme",
   "dependencies": {
     "socket.io": "^2.2.0"
   },
